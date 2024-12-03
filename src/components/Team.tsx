@@ -11,17 +11,17 @@ const teamMembers: TeamMember[] = [
   {
     name: "Lhiam Andrei Lingco",
     role: "Main Developer",
-    avatarUrl: "/placeholder.svg?height=100&width=100",
+    avatarUrl: "src/assets/yam.jpg",
   },
   {
     name: "Mark Lois Pablico",
     role: "Co-Developer / Project Manager",
-    avatarUrl: "/placeholder.svg?height=100&width=100",
+    avatarUrl: "src/assets/mark.jpg",
   },
   {
     name: "John Mark Bahandi",
     role: "Designer",
-    avatarUrl: "/placeholder.svg?height=100&width=100",
+    avatarUrl: "src/assets/jm.jpg",
   },
 ];
 
